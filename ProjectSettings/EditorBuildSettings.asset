@@ -23,4 +23,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MiguelScenes/Nivel5.unity
     guid: 6ceb6921ca137cb4fb44a008e5876b9a
+  - enabled: 1
+    path: Assets/Scenes/MaxScene/Pantalla_Creditos.unity
+    guid: 62b46e01553547044b244d3c0fd48bfd
+  - enabled: 1
+    path: Assets/Scenes/MaxScene/Pantalla_Derrota.unity
+    guid: e4b893cc86701834f8262c1ec7e99f95
+  - enabled: 1
+    path: Assets/Scenes/MaxScene/Pantalla_Victoria.unity
+    guid: 7d8d0ef5c9be50542b510a268ed73c86
   m_configObjects: {}
