@@ -1,0 +1,7 @@
+alumno 1: Mangel Angel Huamani Lapa
+alumno 2: Max
+alumno 3: Renatto
+alumno 4: Brayan
+alumno 5: Jorge
+alumno 6: Rodrigo
+alumno 7: Juan
