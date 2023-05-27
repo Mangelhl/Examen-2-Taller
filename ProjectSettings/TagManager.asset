@@ -14,6 +14,7 @@ TagManager:
 >>>>>>> parent of 0e4f676 (Revert "Alumno 6 _ Rodrigo Alonso Ramírez")
   - Bullet
   - Enemy
+<<<<<<< HEAD
   - Trampas
   - avisoTrampa
 <<<<<<< HEAD
@@ -33,6 +34,8 @@ TagManager:
 >>>>>>> parent of 0e4f676 (Revert "Alumno 6 _ Rodrigo Alonso Ramírez")
 =======
 >>>>>>> parent of 8f4820d (Alumno 6 _ Rodrigo Alonso Ramírez)
+=======
+>>>>>>> parent of 81c47dd (Alumno 6 Trampas_ Rodrigo Alonso)
   layers:
   - Default
   - TransparentFX
