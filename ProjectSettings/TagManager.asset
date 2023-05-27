@@ -8,6 +8,7 @@ TagManager:
   - enemigotres
   - Undefined
   - bullet
+  - enemy
   layers:
   - Default
   - TransparentFX
