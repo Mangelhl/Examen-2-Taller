@@ -20,7 +20,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MiguelScenes/Scenes/Nivel4.unity
     guid: 0eb0bb65528ee8f42ac3fd9ae4c91457
+  - enabled: 0
+    path: Assets/Scenes/MiguelScenes/Scenes/Nivel5.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+<<<<<<< HEAD
+=======
+    path: Assets/Scenes/MiguelScenes/Scenes/Nivel5.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+>>>>>>> 2f13b4f428f0aa29287d5ac582100984b54e849e
     path: Assets/Scenes/MaxScene/Pantalla_Creditos.unity
     guid: 62b46e01553547044b244d3c0fd48bfd
   - enabled: 1
