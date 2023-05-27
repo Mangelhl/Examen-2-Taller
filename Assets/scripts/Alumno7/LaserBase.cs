@@ -12,6 +12,7 @@ public class LaserBase : MonoBehaviour
     private void Start()
     {
         rb2 = GetComponent<Rigidbody>();
+        
     }
     void FixedUpdate()
     {

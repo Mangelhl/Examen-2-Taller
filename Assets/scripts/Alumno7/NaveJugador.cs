@@ -32,6 +32,7 @@ public class NaveJugador :MonoBehaviour
     private void FixedUpdate()
     {
         rb.velocity = new Vector2(h*speed, v*speed);
+      
     }
 
     private void Fire() {
