@@ -16,12 +16,7 @@ public class TextScrolling : MonoBehaviour
     {
         textComponent = GetComponent<Text>();
         textComponent.text = Contenido[currentIndex];
-    }
-    public void StartScrolling(string[] textContents)
-    {
-        Contenido = textContents;
-        textComponent.text = Contenido[currentIndex];
-    }
+    }    
 
     private void Update()
     {
