@@ -4,6 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   - Bullet
   - Enemy
@@ -16,6 +17,10 @@ TagManager:
   - bullet
   - enemy
 >>>>>>> 2f13b4f428f0aa29287d5ac582100984b54e849e
+=======
+  - Trampas
+  - avisoTrampa
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
