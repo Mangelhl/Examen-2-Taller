@@ -6,11 +6,11 @@ using UnityEngine.UI;
 public class InterfaceController : MonoBehaviour
 {
 
-    public float idleTime = 5f; // Tiempo de inactividad antes de ocultar la interfaz
-    public Text scrollingText; // Referencia al componente Text que mostrará el texto en movimiento
+    public float idleTime = 5f; 
+    public Text scrollingText; 
     public bool isInterfaceVisible = true;
     private float timeSinceLastInput = 0f;
-    private string[] textContents; // Contenido del texto en movimiento
+    private string[] textContents; 
     private TextScrolling textScrolling; // Referencia al script de desplazamiento de texto
 
     private void Start()
