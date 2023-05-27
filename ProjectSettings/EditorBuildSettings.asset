@@ -29,7 +29,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MaxScene/Pantalla_Victoria.unity
     guid: 7d8d0ef5c9be50542b510a268ed73c86
-  - enabled: 1
-    path: Assets/Scenes/RodrigoAlonso/Alumno_6.unity
-    guid: 664a6a0852480734d838321cedd7c382
   m_configObjects: {}
