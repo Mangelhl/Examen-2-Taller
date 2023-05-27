@@ -6,19 +6,25 @@ TagManager:
   tags:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
 =======
 >>>>>>> parent of 8f4820d (Alumno 6 _ Rodrigo Alonso Ramírez)
 <<<<<<< HEAD
 >>>>>>> parent of 0e4f676 (Revert "Alumno 6 _ Rodrigo Alonso Ramírez")
+=======
+>>>>>>> parent of 8870554 (Revert "Alumno 6 _ Rodrigo Alonso Ramírez")
   - Bullet
   - Enemy
 <<<<<<< HEAD
   - Trampas
   - avisoTrampa
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 8870554 (Revert "Alumno 6 _ Rodrigo Alonso Ramírez")
 =======
   - balaE
   - enemigotres
@@ -26,6 +32,7 @@ TagManager:
   - bullet
   - enemy
 >>>>>>> 2f13b4f428f0aa29287d5ac582100984b54e849e
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
   - Trampas
@@ -36,6 +43,8 @@ TagManager:
 >>>>>>> parent of 8f4820d (Alumno 6 _ Rodrigo Alonso Ramírez)
 =======
 >>>>>>> parent of 81c47dd (Alumno 6 Trampas_ Rodrigo Alonso)
+=======
+>>>>>>> parent of 8870554 (Revert "Alumno 6 _ Rodrigo Alonso Ramírez")
   layers:
   - Default
   - TransparentFX

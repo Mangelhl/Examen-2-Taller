@@ -18,10 +18,6 @@ public class DefeatCount : MonoBehaviour
         {
             loseScore = PlayerPrefs.GetInt("Muertes", 1);
         }
-
-
-
-
         LM.text = "Muertes : " + PlayerPrefs.GetInt("Muertes", 1).ToString();
     }
     private void Update()

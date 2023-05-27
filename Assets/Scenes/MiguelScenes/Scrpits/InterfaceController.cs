@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class InterfaceController : MonoBehaviour
 {
     [SerializeField] private GameObject Buttons;
-    [SerializeField] private GameObject Text;
+    [SerializeField] private GameObject Text;   
 
     public float idleTime = 5f;    
     private bool isInterfaceVisible = true;
@@ -37,13 +37,13 @@ public class InterfaceController : MonoBehaviour
     }
 
     private void ShowInterface()
-    {       
+    {        
         Buttons.SetActive(true);
         Text.SetActive(false);
     }
 
     private void HideInterface()
-    {     
+    {       
         Buttons.SetActive(false);
         Text.SetActive(true);
     }
