@@ -1,5 +1,5 @@
 alumno 1: Mangel Angel Huamani Lapa
-alumno 2: Max
+alumno 2: Maximiliano Raul Ignacio Apablaza Andia
 alumno 3: Renatto
 alumno 4: Brayan
 alumno 5: Jorge
