@@ -4,10 +4,29 @@
 TagManager:
   serializedVersion: 2
   tags:
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+>>>>>>> parent of 0e4f676 (Revert "Alumno 6 _ Rodrigo Alonso Ramírez")
   - Bullet
   - Enemy
   - Trampas
   - avisoTrampa
+<<<<<<< HEAD
+=======
+=======
+  - balaE
+  - enemigotres
+  - Undefined
+  - bullet
+  - enemy
+>>>>>>> 2f13b4f428f0aa29287d5ac582100984b54e849e
+=======
+  - Trampas
+  - avisoTrampa
+>>>>>>> Stashed changes
+>>>>>>> parent of 0e4f676 (Revert "Alumno 6 _ Rodrigo Alonso Ramírez")
   layers:
   - Default
   - TransparentFX
