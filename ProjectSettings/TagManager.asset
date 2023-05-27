@@ -4,18 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-<<<<<<< HEAD
   - Bullet
   - Enemy
   - Trampas
   - avisoTrampa
-=======
-  - balaE
-  - enemigotres
-  - Undefined
-  - bullet
-  - enemy
->>>>>>> 2f13b4f428f0aa29287d5ac582100984b54e849e
   layers:
   - Default
   - TransparentFX

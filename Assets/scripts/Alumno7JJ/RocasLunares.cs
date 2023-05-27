@@ -1,19 +1,17 @@
     using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
+
 public class RocasLunares : MonoBehaviour
 {
     private Rigidbody rb3;
-    DefeatCount defeat;
     [SerializeField] float speed2;
     PuntajeAlumno7 PA7;
     GameObject M;
     private void Start()
     {
-       defeat = FindObjectOfType<DefeatCount>();
-       
-        PA7 = FindObjectOfType<PuntajeAlumno7>();
+        
+        PA7=FindObjectOfType<PuntajeAlumno7>();
         rb3 = GetComponent<Rigidbody>();
     }
 
@@ -31,12 +29,12 @@ public class RocasLunares : MonoBehaviour
         }
         if  (other.gameObject.CompareTag("Player"))
         {
-            defeat.loseCondition = true;
-            SceneManager.LoadScene(7);
+           // M.SetActive(true);
             Destroy(other.gameObject);
         }
         if (other.gameObject.CompareTag("wall"))
         {
+          
             Destroy(this.gameObject);
         }
     }

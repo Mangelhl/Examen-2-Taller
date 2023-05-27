@@ -18,10 +18,15 @@ public class Puntuación : MonoBehaviour
         {
             winScore = PlayerPrefs.GetInt("Puntaje Maximo", 0);
         }
+
+      
+
+
         SM.text = "MaxScore : " + PlayerPrefs.GetInt("Puntaje Maximo", 0).ToString();
     }
     private void Update()
     {
+
         if (winCondition)
         {
             winScore += 1;
@@ -29,11 +34,11 @@ public class Puntuación : MonoBehaviour
             SM.text = "MaxScore : " + winScore.ToString();
             winCondition = false;
         }
+
         if (Input.GetKeyDown(KeyCode.L))
         {
             PlayerPrefs.SetInt("Puntaje Maximo", 0);
             SM.text = "MaxScore : " + 0;
         }
-
     }
 }

@@ -12,5 +12,4 @@ public static class StaticVariables
     public static int Nivel4Times;
     public static int Nivel5Times;
 
-
 }
