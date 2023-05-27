@@ -6,6 +6,9 @@ TagManager:
   tags:
   - balaE
   - enemigotres
+  - Undefined
+  - bullet
+  - enemy
   layers:
   - Default
   - TransparentFX
