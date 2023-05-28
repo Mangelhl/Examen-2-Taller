@@ -8,8 +8,7 @@ public class InterfaceController : MonoBehaviour
     [SerializeField] private GameObject Buttons;
     [SerializeField] private GameObject Text;   
 
-    public float idleTime = 5f;    
-    private bool isInterfaceVisible = true;
+    public float idleTime = 5f;       
     private float timeSinceLastInput = 0f;           
 
     private void Start()
